@@ -1,4 +1,5 @@
 # Advent of code 2022 
+![image](https://github.com/xxXWarMachineRoXxx/aoc/assets/47086987/b3968feb-8319-45f1-b019-c2663a4d6a7e)
 
 
 ## Introduction 
