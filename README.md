@@ -2,10 +2,10 @@
 
 
 ## Introduction 
-Hey , SO i started AOC by accidentally falling into a hole of googling stuff ( like pretty much anything else i do )
-Writing it here for safekeeping and helping out anyone who's stuck. 
+Hey 👋, SO i started AOC by accidentally falling into a hole of googling 🧑‍💻 stuff ( like pretty much anything else i do )
+✍️ Writing it here for safekeeping and helping out anyone who's stuck. 
 
-Till today 12 July 2023, All solutions ( XD just 2 ) have been thought and coded by myself
+📅 Till today 12 July 2023, All solutions ( XD just 2 ) have been thought and coded by myself
 
 If you are burnt out from [Leetcode](https://leetcode.com/) , [Advent of Code](https://adventofcode.com/2022) can be a nice breezer for you.
 
