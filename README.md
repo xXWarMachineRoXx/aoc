@@ -15,7 +15,7 @@ If you are burnt out from [Leetcode](https://leetcode.com/) , [Advent of Code](h
 ## Terms of Use (AOC)
 > increment: The action of increasing or becoming greater.
 
-Advent of Code is **free** to use.
+[Advent of Code](https://adventofcode.com) is **free** to use.
 
 However, building and running Advent of Code takes a significant amount of my time and energy. If you like Advent of Code, would like more things like it in the future, and are able to do so, please support Advent of Code.
 
