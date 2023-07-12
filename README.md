@@ -2,7 +2,9 @@
 
 
 ## Introduction 
-Hey 👋, SO i started AOC by accidentally falling into a hole of googling 🧑‍💻 stuff ( like pretty much anything else i do )
+Hey 👋, SO i started AOC by accidentally falling into a hole of googling 🧑‍💻 stuff 
+( like pretty much anything else i do )
+
 ✍️ Writing it here for safekeeping and helping out anyone who's stuck. 
 
 📅 Till today 12 July 2023, All solutions ( XD just 2 ) have been thought and coded by myself
