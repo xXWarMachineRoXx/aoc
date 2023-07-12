@@ -11,7 +11,7 @@ If you are burnt out from [Leetcode](https://leetcode.com/) , [Advent of Code](h
 
 
 ## Terms of Use (AOC)
-increment: The action of increasing or becoming greater.
+> increment: The action of increasing or becoming greater.
 
 Advent of Code is **free** to use.
 
